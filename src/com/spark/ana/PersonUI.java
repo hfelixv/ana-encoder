@@ -19,7 +19,7 @@ public class PersonUI extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("/resources/fxml/Scene.fxml"));
         
         Scene scene = new Scene(root);
-        stage.setTitle("Anahuac Encoder Example");
+        stage.setTitle("Anahuac Encoder Example on develop branch");
         stage.setScene(scene);
         stage.show();
     }
