@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IdentixSerialSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Hector/DevOps Linux/Proyecto Biblioteca RFID/rwtags/Identix/Identix.SerialSDK/IdentixSerialSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
